@@ -1,0 +1,7 @@
+ABC-123;Toyota Corolla;Személyautó;12000;45000
+DEF-456;Ford Transit;Teherautó;18500;110000
+GHI-789;Suzuki Swift;Személyautó;9500;18000
+JKL-012;Volkswagen Golf;Személyautó;14000;62000
+MNO-345;Mercedes Sprinter;Teherautó;22000;85000
+PQR-678;Dacia Duster;SUV;15500;31000
+STU-901;Opel Vivaro;Teherautó;19000;94000

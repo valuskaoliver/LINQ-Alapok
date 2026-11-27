@@ -18,8 +18,8 @@ namespace LINQ_Alapok
             Rendszam = adatok[0];
             Tipus = adatok[1];
             Kategoria = adatok[2];
-            NapiDij = int.Parse(adatok[4]);
-            FutottKm = int.Parse(adatok[5]);
+            NapiDij = int.Parse(adatok[3]);
+            FutottKm = int.Parse(adatok[4]);
         }
 
         public int BerlesiDijKalkulator(int napokSzama)
